@@ -1,0 +1,26 @@
+# Build output
+/target/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE folders
+.project
+.classpath
+.settings/
+.idea/
+.vscode/
+*.iml
+
+# Spring Boot config
+src/main/resources/application*.properties
+*.env
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.db
